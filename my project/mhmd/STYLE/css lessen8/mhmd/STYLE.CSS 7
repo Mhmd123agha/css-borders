@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    
+}
+body{
+   font-family: Arial, Helvetica, sans-serif;   text-transform: capitalize;
+}
+.header>li{
+    list-style-type:none ;
+    margin-right: 2rem;
+    
+}
+a{
+    text-decoration: none;
+}
+.header >li>a{
+    color: red;}
+
+    nav{
+       
+       border-bottom: 2px solid black; 
+        
+        
+    }
+
+
+section{
+    border: 1px solid blue;
+    padding-left: 6px;
+}
+section{
+    margin: 5px;
+}
+nav{
+    margin: 5px;
+}
+#footer{
+    border-radius: 40px; content: '\f27e';
+}
+.p{
+    border:1px solid blue; margin: 6px;  padding-left: 4px;
+}
+
