@@ -1,0 +1,10 @@
+body{
+    font-size: 2em;
+    box sizing;border box
+}
+section{
+    border;1px solid blue
+    margin;5px
+    padding;4px
+
+}
