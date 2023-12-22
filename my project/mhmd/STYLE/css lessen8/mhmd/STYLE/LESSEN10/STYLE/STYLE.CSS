@@ -1,0 +1,40 @@
+body{
+    background-color: #addac7d2;;
+}
+#header{
+    display: flex;
+    padding: 3px;
+    margin: 3px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    border: 1px solid black ;
+    margin: 4px;
+    padding: 3px;
+    display: inline-table;
+    list-style: none;
+}
+
+
+.section_develeper,.section_summary,.section_table,.skills,.data,.footer{
+    border: 1px solid rgb(94, 82, 82);
+    margin: 10px;
+    padding: 5px;
+
+ 
+}
+#ul{
+    display: flex;
+    list-style: none;
+}
+.section_header{
+    border-bottom: 2px solid black;
+}
+h3{
+    color: rgb(20, 58, 80);
+}
+#list{
+    list-style-type: calc();
+}
