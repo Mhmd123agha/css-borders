@@ -1,0 +1,68 @@
+body{
+    background-color: #3d405b;;
+}
+#header{
+    display: flex;
+    padding: 3px;
+    margin: 3px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    border: 1px solid black ;
+    margin: 4px;
+    padding: 3px;
+    display: inline-table;
+    list-style: none;
+    font-style: content: '\undefined';
+    
+}
+
+
+.section_summary,.section_table,.skills,.data,.footer{
+    
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+ 
+}
+#ul{
+    display: flex;
+    list-style: none;
+}
+.section_header{
+    border-bottom: 2px solid black;
+}
+h3{
+    color: rgba(140, 151, 144, 0.979);
+    box-shadow: #f4a261;
+}
+#list{
+    list-style-type: calc();
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    
+    background-color: #e3d5ca;
+    gap: 100px;}
+
+.image{
+
+position: fixed;
+text-align-last: center;
+
+margin-left: 1000px;
+margin-bottom: 1500px;
+z-index: inherit;
+
+}
+a{
+    color: rgb(58, 15, 44);
+}
+
+
+    
+    
+
